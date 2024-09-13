@@ -19,3 +19,19 @@
     background-color: hsl(0, 0%, 66%);
     
 }
+
+.lista--SaddleBrown{
+    color: rgb(139, 69, 19);
+}
+
+.lista--Goldenrod{
+    color: rgb(218, 165, 32)    ;
+}
+
+.lista--MediumSpringGreen{
+    color: rgb(0, 250, 154);
+}
+
+.lista--Yellow{
+    color: rgb(255, 255, 0);
+}
